@@ -1,6 +1,14 @@
 # (코시국에 어디를 가나요)
 
 - 코로나가 발생한 이후로 지하철과 버스 이용량이 어떻게 변화하였는지 데이터 분석 및 시각화를 통해 사용자에게 인사이트를 제공하는 사이트
+- 시작페이지
+<img width="80%" src="https://user-images.githubusercontent.com/95010590/156295214-5bbf31b4-e05e-4d55-a35e-b9682aeffd76.gif"/>
+- 지하철페이지
+<img width="80%" src="https://user-images.githubusercontent.com/95010590/156296151-6b56602e-c7bd-4064-b735-da1270c593a6.gif"/>
+<img width="80%" src="https://user-images.githubusercontent.com/95010590/156296274-806badfc-2507-4087-9817-020df47011cf.gif"/>
+- 버스페이지
+<img width="80%" src="https://user-images.githubusercontent.com/95010590/156296565-23c96b16-baad-46cd-82e6-1ad17386e667.gif"/>
+
 
 ## 1. 프로젝트 소개
 
